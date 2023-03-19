@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906521847886",
+    "project_id": "indag-rubber",
+    "storage_bucket": "indag-rubber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906521847886:android:a92cac157dfd49199afb1f",
+        "android_client_info": {
+          "package_name": "com.mobiquest.indagrubber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906521847886-bk4e9katnujnq8h6nvkmkg104fbocb6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHAxyxX-pxIY_FyTFNAmXwPOhXoT55VT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906521847886-bk4e9katnujnq8h6nvkmkg104fbocb6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
